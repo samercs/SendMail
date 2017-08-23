@@ -58,7 +58,9 @@ namespace SendMail.Controllers
             using (var client = new SmtpClient())
             {
                 client.Connect("smtp.gmail.com", 587, false);
-
+                client.Authenticate("samercs1983@gmail.com", "---yourpas---");
+                client.Send(message);
+                client.Disconnect(true);
             }
             return View(model);
         }
