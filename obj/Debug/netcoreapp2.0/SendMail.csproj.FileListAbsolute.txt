@@ -1,0 +1,13 @@
+D:\Code\Personal\SendMail\SendMail\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+D:\Code\Personal\SendMail\SendMail\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+D:\Code\Personal\SendMail\SendMail\bin\Debug\netcoreapp2.0\SendMail.deps.json
+D:\Code\Personal\SendMail\SendMail\bin\Debug\netcoreapp2.0\SendMail.runtimeconfig.json
+D:\Code\Personal\SendMail\SendMail\bin\Debug\netcoreapp2.0\SendMail.runtimeconfig.dev.json
+D:\Code\Personal\SendMail\SendMail\bin\Debug\netcoreapp2.0\SendMail.dll
+D:\Code\Personal\SendMail\SendMail\bin\Debug\netcoreapp2.0\SendMail.pdb
+D:\Code\Personal\SendMail\SendMail\obj\Debug\netcoreapp2.0\SendMail.csproj.CoreCompileInputs.cache
+D:\Code\Personal\SendMail\SendMail\obj\Debug\netcoreapp2.0\SendMail.AssemblyInfo.cs
+D:\Code\Personal\SendMail\SendMail\obj\Debug\netcoreapp2.0\SendMail.dll
+D:\Code\Personal\SendMail\SendMail\obj\Debug\netcoreapp2.0\SendMail.pdb
+D:\Code\Personal\SendMail\SendMail\obj\Debug\netcoreapp2.0\SendMail.csprojResolveAssemblyReference.cache
+D:\Code\Personal\SendMail\SendMail\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

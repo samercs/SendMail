@@ -1,0 +1,40 @@
+﻿@model SendMail.Controllers.SendMailVm
+
+@{
+    ViewBag.Title = "Send Mail Using GMail";
+    Layout = "_Layout";
+}
+
+<h2>Send Mail Using GMail</h2>
+<form asp-action="SendMail" Method="post">
+
+    <div class="form-group">
+        <label asp-for="From">From</label>
+        <input type="email" asp-for="From" class="form-control" />
+        <span asp-validation-for="From"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="To">To</label>
+        <input type="email" asp-for="To" class="form-control" />
+        <span asp-validation-for="To"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Subject">Subject</label>
+        <input type="text" asp-for="Subject" class="form-control" />
+        <span asp-validation-for="Subject"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Message">Message</label>
+        <textarea rows="4" asp-for="Message" class="form-control"></textarea>
+        <span asp-validation-for="Message"></span>
+    </div>
+    <button type="submit" class="btn btn-success">Send Mail</button>
+</form>
+
+@section Scripts{
+    <script src="lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script>
+
+    </script>
+}
+
